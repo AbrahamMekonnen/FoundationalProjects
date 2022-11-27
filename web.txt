@@ -1,0 +1,386 @@
+
+<!DOCTYPE HTML><html class="no-js" lang="en">
+   <head>
+
+<meta charset="utf-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="google-site-verification" content="ilDsLQCJhyJXEWO8hzx1oqxItKy9CqbW_AJVtgW7pkM" />
+
+<link rel="shortcut icon" type="image/ico" href="/_resources/images/favicon.ico" />
+<link rel="apple-touch-icon" href="/_resources/images/apple-touch-icon.png"/>
+
+<link rel="stylesheet" type="text/css" href="/_resources/css/master/slick.css"/>
+<link rel="stylesheet" type="text/css" href="/_resources/css/master/slick-theme.css"/>
+<link rel="stylesheet" href="/_resources/css/oustyles.css" />
+<!-- globalNavigation.css -->
+<link rel="stylesheet" href="/_resources/css/master/globalNavigation-v5.css"/>
+<!-- globalFooter.css -->
+<link rel="stylesheet" href="/_resources/css/master/globalFooter-v1.css"/>
+<!-- masterStyle.css -->
+<link rel="stylesheet" href="/_resources/css/master/masterStyle-v12.css"/>
+
+<!-- undergradNavStyle.css -->
+<link rel="stylesheet" href="/_resources/css/undergrad/undergradNavStyle-v1.css"/>      <link rel="stylesheet" href="/_resources/css/undergrad/directory.css?v=1.1">
+      <title>Faculty/Staff Directory</title><script type="text/javascript">
+					var page_url="https://emu.edu/faculty-staff/index.html";
+				</script></head>
+   <body>
+      		
+      <style xmlns:ouc="http://omniupdate.com/XSL/Variables">
+			.facSearchBar { margin: 5px 0 0px 0 !important; }
+		</style>
+      	<header class="clearfix">
+   <nav class="undergradNav">
+      <div id="navigationContainer"><a href="/" title="EMU in Virginia"><img alt="Header Logo" id="headerLogo" src="/_resources/images/emu-lettermark-logo-color-white.png"></a><ul id="emu-nav">
+            <li class="visuallyhidden" id="skip-link"><a href="#main" title="Skip Navigation">Skip the navigation</a></li>
+            <li id="main-menu">
+               <ul class="toggle-panel">
+                  <li id="aboutDesktopNavigation" class="about"><a href="/about/index.html" id="aboutNav">About</a><div style="display:none;" id="indexaboutDropdown">
+                        <div class="newNavMenuItem"><a href="/about/facts.html">Fast Facts</a></div>
+                        <div class="newNavMenuItem"><a href="/about/area/index.html">About the Area</a></div>
+                        <div class="newNavMenuItem"><a href="/president/mission.html">Mission, Vision, Values</a></div>
+                        <div class="newNavMenuItem"><a href="/about/faith-tradition.html">Faith Tradition</a></div>
+                        <div class="newNavMenuItem"><a href="/about/visit.html">Visiting Campus</a></div>
+                        <div class="newNavMenuItem"><a href="/about/university-info.html">About the University</a></div>
+                        <div class="newNavMenuItem"><a href="/president/senior-leadership.html">Senior Leadership</a></div>
+                        <div class="newNavMenuItem"><a href="/now/news/">EMU News</a></div>
+                        <div class="newNavMenuItem"><a href="/contact/index.html">Contact Us</a></div>
+                     </div>
+                  </li>
+                  <li id="admissionsDesktopNavigation" class="admissions"><a href="/admissions/index.html" id="admissionsNav">Admissions</a><div style="display:none;" id="indexadmissionsDropdown">
+                        <div class="newNavMenuItem"><a href="/admissions/apply/index.html">Apply Now</a></div>
+                        <div class="newNavMenuItem"><a href="/admissions/next-steps.html">Next Steps</a></div>
+                        <div class="newNavMenuItem"><a href="/admissions/campus-visit/index.html">Visit Campus</a></div>
+                        <div class="newNavMenuItem"><a href="/videos/index.html">Our Videos</a></div>
+                        <div class="newNavMenuItem"><a href="/financial-aid/index.html">Financial Assistance</a></div>
+                        <div class="newNavMenuItem"><a href="/admissions/info.html">Request Info</a></div>
+                        <div class="newNavMenuItem"><a href="/admissions/counselors/index.html">Meet your Counselors</a></div>
+                        <div class="newNavMenuItem"><a href="/admissions/transfer/index.html">Transfer Students</a></div>
+                        <div class="newNavMenuItem"><a href="/admissions/international-students/index.html">International Students</a></div>
+                     </div>
+                  </li>
+                  <li id="academicsDesktopNavigation" class="academics"><a href="/academics/index.html" id="academicsNav">Academics</a><div style="display:none;" id="indexacademicsDropdown">
+                        <div class="newNavMenuItem"><a href="/academics/degree-programs.html">Degrees and Programs</a></div>
+                        <div class="newNavMenuItem"><a href="/academics/success/index.html">Academic Success Center</a></div>
+                        <div class="newNavMenuItem"><a href="/admissions/internships.html">Student Internships</a></div>
+                        <div class="newNavMenuItem"><a href="/academics/calendar.html">Academic Calendar</a></div>
+                        <div class="newNavMenuItem"><a href="/academics/academic-and-creative-excellence/index.html">Academic / Creative Excellence Fest</a></div>
+                        <div class="newNavMenuItem"><a href="/library/index.html">Sadie Hartzler Library</a></div>
+                        <div class="newNavMenuItem"><a href="/intercultural/index.html">Intercultural Programs</a></div>
+                        <div class="newNavMenuItem"><a href="/academics/summer-courses/index.html">Summer Online Courses</a></div>
+                     </div>
+                  </li>
+                  <li id="alumniparentsDesktopNavigation" class="alumniparents"><a href="/alumni-and-parents/index.html" id="alumniparentsNav">Alumni &amp; Parents</a><div style="display:none;" id="indexalumniparentsDropdown">
+                        <div class="newNavMenuItem"><a href="/alumni/index.html">Alumni</a></div>
+                        <div class="newNavMenuItem"><a href="/parents/index.html">Parents</a></div>
+                        <div class="newNavMenuItem"><a href="https://emu.edu/homecoming/index.html">Homecoming</a></div>
+                        <div class="newNavMenuItem"><a href="/alumni/involved/index.html">Get Involved</a></div>
+                     </div>
+                  </li>
+                  <li id="studentlifeDesktopNavigation" class="studentlife"><a href="/studentlife/index.html" id="studentlifeNav">Student Life</a><div style="display:none;" id="indexstudentlifeDropdown">
+                        <div class="newNavMenuItem"><a href="/studentlife/counseling/index.html">Counseling Services</a></div>
+                        <div class="newNavMenuItem"><a href="/studentlife/health/index.html">Health Services</a></div>
+                        <div class="newNavMenuItem"><a href="/studentlife/residence-life/index.html">Residence Life</a></div>
+                        <div class="newNavMenuItem"><a href="/studentlife/iss/index.html">International Student Services</a></div>
+                        <div class="newNavMenuItem"><a href="/studentlife/multicultural/index.html">Multicultural Student Services</a></div>
+                        <div class="newNavMenuItem"><a href="/studentlife/orientation/index.html">New Student Orientation</a></div>
+                        <div class="newNavMenuItem"><a href="https://emu.edu/studentlife/spiritual-life.html">Spiritual Life</a></div>
+                        <div class="newNavMenuItem"><a href="/titleix/index.html">Title IX</a></div>
+                     </div>
+                  </li>
+                  <li id="athleticsDesktopNavigation" class="athletics"><a href="https://www.emuroyals.com/" id="athleticsNav">Athletics</a><div style="display:none;" id="indexathleticsDropdown"></div>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </div>
+   </nav>
+   <div id="header-image" class="wrap"></div>
+   <div style="top:-130px !important;" id="topHeaderSearch">
+	<div class="wrap clearfix">
+		<form id="google-cse" action="/search/" name="google-cse"><input type="hidden" value="https://emu.edu/search/google_cse/context.xml" name="cref" aria-label="Search" /> <input type="hidden" value="FORID:11" name="cof" aria-label="Search" /> <input id="desk-search-box" class="searchbox" onblur="changeDesktopSearchToDefault();" type="search" placeholder="Search programs, people and pages..." name="q" aria-label="Search" /></form>
+	</div>
+</div>
+<div class="emergency-banner-container">
+	<div class="emergency-banner-inner">
+		<span style="font-weight:bold;">COVID-19 and EMU <a style="text-decoration: underline; color: #f3a71e; text-transform: uppercase; font-size: 14px; margin: 0 10px;" href="/coronavirus/">Learn More &gt;</a></span>
+	</div>
+</div>
+<div style="position:absolute !important;" class="section">
+	<div id="top-bar" class="wrap">
+		<ul class="primary">
+			<li class="primaryProgramLinks"><a href="/">EMU HOME</a></li>
+			<li class="primaryProgramLinks"><a href="http://my.emu.edu">ON CAMPUS</a></li>
+			<li class="primaryProgramLinks"><a title="CJP" href="/cjp/">CJP</a></li>
+			<li class="primaryProgramLinks"><a title="Grad Studies" href="/graduate/">GRADUATE</a></li>
+			<li class="primaryProgramLinks"><a title="Seminary" href="/seminary/">SEMINARY</a></li>
+			<li class="primaryProgramLinks"><a title="Lancaster" href="/lancaster/">LANCASTER, PA</a></li>
+			<li class="primaryProgramLinks"><a title="online" href="/online/">ONLINE</a></li>
+			<div id="headerCloseMenu"><a href="javascript:closeMobileMenu();"> <img id="headerCloseSymbol" src="/_resources/images/close.png" alt="" /> </a></div>
+			<div id="headerHamburgerMenu"><a href="javascript:openMobileMenu();"> <img id="headerHamburgerSymbol" src="/_resources/images/hamburger.png" alt="" /> </a></div>
+			<a href="javascript:changeDesktopSearch();"> <img id="search-symbol" src="/_resources/images/search.png" alt="Search Symbol" /> </a>
+		</ul>
+		<div class="right"><a class="btn-admissions btn-admissions-give" title="Give" href="javascript:decideURLPath('give');">Give</a> <a class="btn-admissions btn-admissions-apply" title="Apply" href="javascript:decideURLPath('apply');">Apply</a> <a class="btn-admissions btn-admissions-visit" title="Visit" href="javascript:decideURLPath('visit');">Visit</a> <a class="btn-admissions btn-admissions-info" title="Info" href="javascript:decideURLPath('info');">Info</a></div>
+	</div>
+</div>
+<div id="hiddenMobileMenu">
+	<div class="mobileDropdownContainer">
+		<ul class="mobileDropdownUl">
+			<li onclick="mobileDropAboutMenu();" class="mobileDropdownLi">
+				<span>About</span>
+				<p id="mobileDropAboutArrow">&#9660;</p>
+			</li>
+			<div id="mobileDropdownAboutHidden">
+				<ul>
+					<li><a href="/about/index.html">About Home</a></li>
+					<li><a href="/about/facts.html">Fast Facts</a></li>
+					<li><a href="/president/mission.html">Mission, Vision, Values</a></li>
+					<li><a href="/about/area/index.html">About the Area</a></li>
+					<li><a href="/about/faith-tradition.html">Faith Tradition</a></li>
+					<li><a href="/about/visit.html">Visiting Campus</a></li>
+					<li><a href="/about/university-info/">About the University</a></li>
+					<li><a href="/president/senior-leadership/">Senior Leadership</a></li>
+					<li><a href="/contact/index.html">Contact Us</a></li>
+				</ul>
+			</div>
+			<li onclick="mobileDropAdmissionsMenu();" class="mobileDropdownLi">
+				<span>Admissions</span>
+				<p id="mobileDropAdmissionsArrow">&#9660;</p>
+			</li>
+			<div id="mobileDropdownAdmissionsHidden">
+				<ul>
+					<li><a href="/admissions/index.html">Admissions Home</a></li>
+					<li><a href="/admissions/apply/index.html">Apply Now</a></li>
+					<li><a href="/admissions/next-steps.html">Next Steps</a></li>
+					<li><a href="/admissions/campus-visit/index.html">Visit Campus</a></li>
+					<li><a href="/videos/index.html">Our Videos</a></li>
+					<li><a href="/financial-aid/index.html">Financial Assistance</a></li>
+					<li><a href="/admissions/info.html">Request Info</a></li>
+					<li><a href="/admissions/counselors/index.html">Meet your Counselors</a></li>
+					<li><a href="/admissions/transfer/index.html">Transfer Students</a></li>
+				</ul>
+			</div>
+			<li onclick="mobileDropAcademicsMenu();" class="mobileDropdownLi">
+				<span>Academics</span>
+				<p id="mobileDropAcademicsArrow">&#9660;</p>
+			</li>
+			<div id="mobileDropdownAcademicsHidden">
+				<ul>
+					<li><a href="/academics/index.html">Academics Home</a></li>
+					<li><a href="/academics/degree-programs.html">Degrees and Programs</a></li>
+					<li><a href="/academics/success/index.html">Academic Success Center</a></li>
+				    <li><a href="/admissions/internships.html">Student Internships</a></li>
+					<li><a href="/academics/calendar.html">Academic Calendar</a></li>
+					<li><a href="/academics/academic-and-creative-excellence/index.html">Academic / Creative Excellence Fest</a></li>
+					<li><a href="/library/index.html">Sadie Hartzler Library</a></li>
+					<li><a href="/intercultural/index.html">Intercultural Programs</a></li>
+					<li><a href="/academics/summer-courses/index.html">Summer Online Courses</a></li>
+				</ul>
+			</div>
+			<li onclick="mobileDropAlumniparentsMenu();" class="mobileDropdownLi">
+				<span>Alumni &amp; Parents</span>
+				<p id="mobileDropAlumniparentsArrow">&#9660;</p>
+			</li>
+			<div id="mobileDropdownAlumniparentsHidden" style="display: none;">
+				<ul>
+					<li><a href="/alumni-and-parents/index.html">Alumni &amp; Parents Home</a></li>
+					<li><a href="/alumni/index.html">Alumni</a></li>
+					<li><a href="/parents/index.html">Parents</a></li>
+					<li><a href="https://emu.edu/homecoming/index.html">Homecoming</a></li>
+					<li><a href="/alumni/involved/index.html">Get Involved</a></li>
+				</ul>
+			</div>
+			<li onclick="mobileDropStudentlifeMenu();" class="mobileDropdownLi">
+				<span>Student Life</span>
+				<p id="mobileDropStudentlifeArrow">&#9660;</p>
+			</li>
+			<div id="mobileDropdownStudentlifeHidden">
+				<ul>
+					<li><a href="/studentlife/index.html">Student Life Home</a></li>
+					<li><a href="/studentlife/counseling/index.html">Counseling Services</a></li>
+					<li><a href="/studentlife/health/index.html">Health Services</a></li>
+					<li><a href="/studentlife/residence-life/index.html">Residence Life</a></li>
+					<li><a href="/studentlife/iss/index.html">International Student Services</a></li>
+					<li><a href="/studentlife/multicultural/index.html">Multicultural Student Services</a></li>
+					<li><a href="/studentlife/orientation/index.html">New Student Orientation</a></li>
+					<li><a href="/studentlife/spiritual-life/index.html">Spiritual Life</a></li>
+					<li><a href="/titleix/index.html">Title IX</a></li>
+				</ul>
+			</div>
+			<li class="mobileDropdownLi">
+				<a href="http://www.emuroyals.com/"><div>Athletics</div></a>
+			</li>
+		</ul>
+	</div>
+	<div class="mobileQuickLinksContainer">
+		<h2 class="mobileQuickLinksHeader"><em>Quick Links</em></h2>
+		<a href="/">
+			<div class="mobileQuickLinks"><em>Home</em></div>
+		</a>
+		<a href="https://my.emu.edu/">
+			<div class="mobileQuickLinks"><em>On Campus</em></div>
+		</a> 
+		<a href="/cjp/">
+			<div class="mobileQuickLinks"><em>CJP</em></div>
+		</a>
+		<a href="/graduate/">
+			<div class="mobileQuickLinks"><em>Graduate</em></div>
+		</a>
+		<a href="/seminary/">
+			<div class="mobileQuickLinks"><em>Seminary</em></div>
+		</a> 
+		<a href="/lancaster/">
+			<div class="mobileQuickLinks"><em>Lancaster, PA</em></div>
+		</a>
+		<a href="/online/">
+			<div class="mobileQuickLinks"><em>Online</em></div>
+		</a>
+	</div>
+</div></header>      <div class="section-title-container">
+         <h1 class="caps">Faculty/Staff Directory</h1>
+      </div>
+      <div class="titleBar">
+         <div role="main" class="wrap clearfix">
+            <div class="breadcrumb" id="breadcrumbs"><a href="/">Home</a><span class="divider">?</span>Faculty/Staff Directory</div>
+         </div>
+      </div>
+      <div role="main" class="wrap clearfix">
+         <div class="clearfix"></div>
+      </div>
+      <div role="main" class="wrap clearfix">
+         <div class="clearfix">
+            <div class="full-width-content clearfix"><form  method="GET" lpformnum="1"><input name="search" class="facSearchBar" placeholder="Search by name or department"/></form><div style="display: inline-flex; margin-bottom: 25px;"><p id="backToSearch" style="margin: 0 10px 0 0;"><a href="/faculty-staff/">Search</a></p>|<p style="margin: 0 10px;"><a href="/faculty-staff/all-name">View All Faculty/Staff (By Name)</a></p>|<p style="margin: 0 10px;"><a href="/faculty-staff/all-department">View All Faculty/Staff (By Department)</a></p></div><div id="searchResultsBar"><h1>Search Results For: Mathematics and Computer Science </h1></div><div id="searchResultsInfo"><div>		<a href="/faculty-staff/?show=jfb334"><img src="/faculty-staff/images/no-image.jpg"/>			<h6>Jesse Blosser</h6></a> 		<p>Adjunct Faculty</p>		<p class="searchSmallParagraph"><strong>Email: </strong><a href="mailto:jesse.blosser@emu.edu">jesse.blosser@emu.edu</a></p></div><div>		<a href="/faculty-staff/?show=lb258"><img src="/faculty-staff/images/lb258.jpg"/>			<h6>Leah Boyer</h6></a> 		<p>Adjunct Faculty</p>		<p class="searchSmallParagraph"><strong>Phone: </strong>(540) 432-4417</p></div><div>		<a href="/faculty-staff/?show=byer"><img src="/faculty-staff/images/byer.jpg"/>			<h6>Owen Byer</h6></a> 		<p>Professor; Program Director - Mathematics and Computer Science</p>		<p class="searchSmallParagraph"><strong>Phone: </strong>(540) 432-4642</p>		<p class="searchSmallParagraph"><strong>Email: </strong><a href="mailto:byer@emu.edu">byer@emu.edu</a></p></div><div>		<a href="/faculty-staff/?show=szc6295"><img src="/faculty-staff/images/szc6295.jpg"/>			<h6>Stefano Colafranceschi</h6></a> 		<p>Assistant Professor</p>		<p class="searchSmallParagraph"><strong>Phone: </strong>(540) 432-4413</p>		<p class="searchSmallParagraph"><strong>Email: </strong><a href="mailto:stefano.colafranceschi@emu.edu">stefano.colafranceschi@emu.edu</a></p></div><div>		<a href="/faculty-staff/?show=cooleycd"><img src="/faculty-staff/images/cooleycd.jpg"/>			<h6>Charles Cooley</h6></a> 		<p>Assistant Professor; Associate Director of Institutional Research - Institutional Research and Effectiveness</p>		<p class="searchSmallParagraph"><strong>Phone: </strong>(540) 432-4411</p>		<p class="searchSmallParagraph"><strong>Email: </strong><a href="mailto:cooleycd@emu.edu">cooleycd@emu.edu</a></p></div><div>		<a href="/faculty-staff/?show=gae2222"><img src="/faculty-staff/images/no-image.jpg"/>			<h6>Geoffray Estes Jr</h6></a> 		<p>Adjunct Faculty</p>		<p class="searchSmallParagraph"><strong>Email: </strong><a href="mailto:geoffray.estes@emu.edu">geoffray.estes@emu.edu</a></p></div><div>		<a href="/faculty-staff/?show=skg2228"><img src="/faculty-staff/images/no-image.jpg"/>			<h6>Susan Grapevine</h6></a> 		<p>Adjunct Faculty</p></div><div>		<a href="/faculty-staff/?show=ceh364"><img src="/faculty-staff/images/no-image.jpg"/>			<h6>Chuck Heckman</h6></a> 		<p>Adjunct Faculty</p>		<p class="searchSmallParagraph"><strong>Email: </strong><a href="mailto:chuck.heckman@emu.edu">chuck.heckman@emu.edu</a></p></div><div>		<a href="/faculty-staff/?show=gak2225"><img src="/faculty-staff/images/no-image.jpg"/>			<h6>Greg Keim</h6></a> 		<p>Adjunct Faculty</p></div><div>		<a href="/faculty-staff/?show=dak2227"><img src="/faculty-staff/images/dak2227.jpg"/>			<h6>Daniel King</h6></a> 		<p>Associate Professor</p>		<p class="searchSmallParagraph"><strong>Phone: </strong>(540) 432-4467</p>		<p class="searchSmallParagraph"><strong>Email: </strong><a href="mailto:daniel.king@emu.edu">daniel.king@emu.edu</a></p></div><div>		<a href="/faculty-staff/?show=rmm2238"><img src="/faculty-staff/images/rmm2238.jpg"/>			<h6>Bob May</h6></a> 		<p>Adjunct Faculty</p>		<p class="searchSmallParagraph"><strong>Email: </strong><a href="mailto:bob.may@emu.edu">bob.may@emu.edu</a></p></div><div>		<a href="/faculty-staff/?show=nussbabr"><img src="/faculty-staff/images/no-image.jpg"/>			<h6>Brian Nussbaum</h6></a> 		<p>Adjunct Faculty</p>		<p class="searchSmallParagraph"><strong>Email: </strong><a href="mailto:brian.nussbaum@emu.edu">brian.nussbaum@emu.edu</a></p></div><div>		<a href="/faculty-staff/?show=cdp2233"><img src="/faculty-staff/images/no-image.jpg"/>			<h6>Dave Pruett</h6></a> 		<p>Adjunct Faculty</p>		<p class="searchSmallParagraph"><strong>Email: </strong><a href="mailto:dave.pruett@emu.edu">dave.pruett@emu.edu</a></p></div><div>		<a href="/faculty-staff/?show=rushdm"><img src="/faculty-staff/images/no-image.jpg"/>			<h6>Dave Rush</h6></a> 		<p>Adjunct Faculty</p>		<p class="searchSmallParagraph"><strong>Email: </strong><a href="mailto:dave.rush@emu.edu">dave.rush@emu.edu</a></p></div><div>		<a href="/faculty-staff/?show=showalda"><img src="/faculty-staff/images/showalda.jpg"/>			<h6>Daniel Showalter</h6></a> 		<p>Associate Professor</p>		<p class="searchSmallParagraph"><strong>Phone: </strong>(540) 432-4430</p>		<p class="searchSmallParagraph"><strong>Email: </strong><a href="mailto:daniel.showalter@emu.edu">daniel.showalter@emu.edu</a></p></div><div>		<a href="/faculty-staff/?show=jzs6768"><img src="/faculty-staff/images/no-image.jpg"/>			<h6>James Sochacki</h6></a> 		<p>Adjunct Faculty</p>		<p class="searchSmallParagraph"><strong>Email: </strong><a href="mailto:james.sochacki@emu.edu">james.sochacki@emu.edu</a></p></div><div>		<a href="/faculty-staff/?show=jzt2844"><img src="/faculty-staff/images/jzt2844.jpg"/>			<h6>Esther Tian</h6></a> 		<p>Associate Professor; Program Director - Engineering</p>		<p class="searchSmallParagraph"><strong>Phone: </strong>(540) 432-4404</p>		<p class="searchSmallParagraph"><strong>Email: </strong><a href="mailto:esther.tian@emu.edu">esther.tian@emu.edu</a></p></div><div>		<a href="/faculty-staff/?show=lay836"><img src="/faculty-staff/images/lay836.jpg"/>			<h6>Laurie Yoder</h6></a> 		<p>Associate Professor</p>		<p class="searchSmallParagraph"><strong>Phone: </strong>(540) 432-4420</p>		<p class="searchSmallParagraph"><strong>Email: </strong><a href="mailto:laurie.yoder@emu.edu">laurie.yoder@emu.edu</a></p></div></div>               		
+               
+               	</div>
+         </div>
+      </div>
+      <div id="hidden" style="display:none;"><a id="de" rel="nofollow" href="https://a.cms.omniupdate.com/11/?skin=oucampus&amp;account=emu&amp;site=www&amp;action=de&amp;path=/faculty-staff/index.pcf">©</a></div>
+      <div class="undergrad-mobile-bottom-buttons">
+   <div class="mobile-bottom-buttons-surround"><a href="javascript:decideURLPath('visit');">
+         <div class="mobile-bottom-button mobile-bottom-button-visit"><img src="/_resources/images/mobile-icons/mobile-bottom-visit-now.png" alt="visit graphic"><span class="mobile-bottom-title">Visit</span></div></a><a href="javascript:decideURLPath('apply');">
+         <div class="mobile-bottom-button"><img src="/_resources/images/mobile-icons/mobile-bottom-apply-now.png" alt="apply graphic"><span class="mobile-bottom-title">Apply</span></div></a></div>
+</div><footer id="footer" class="footer-with-mountains">
+   <div class="mountain-footer"></div>
+   <div id="ybDiv" class="wrap clearfix">
+      <div id="mainPageFooterLeft" class="left"><a href="/"><img alt="EMU Logo" src="/_resources/images/emu-lettermark-logo-color-white.png" id="logo" class="png_bg"></a><address class="vcard"><span id="directedit">©</span> 2006 - 2022<span class="fn org"> Eastern Mennonite University</span><br><span class="adr"><span class="street-address">1200 Park Road</span>, <span class="locality">Harrisonburg</span>, <span class="region">Virginia</span> <span class="postal-code">22802</span> </span><br>
+            			Phone: <span class="tel">540-432-4000</span></address>
+         <div class="footer-social-icon-container">
+            <div class="footer-social-icon-container-inner">
+               <ul class="footer-social-icon-ul">
+                  <li><a onfocus="undergradFacebookIconHover();" onblur="undergradFacebookIconOut();" href="https://www.facebook.com/EasternMennonite"><img id="fb-small-footer" src="/_resources/images/social/facebook-white.png" alt="Facebook Logo"></a></li>
+                  <li><a onfocus="undergradTwitterIconHover();" onblur="undergradTwitterIconOut();" href="https://www.twitter.com/emu_news"><img id="tw-small-footer" src="/_resources/images/social/twitter-white.png" alt="Twitter Logo"></a></li>
+                  <li><a onfocus="undergradYoutubeIconHover();" onblur="undergradYoutubeIconOut();" href="https://www.youtube.com/user/easternmennoniteuniv"><img id="yt-small-footer" src="/_resources/images/social/youtube-white.png" alt="YouTube Logo"></a></li>
+                  <li><a onfocus="undergradInstagramIconHover();" onblur="undergradInstagramIconOut();" href="https://www.instagram.com/easternmennoniteu/"><img id="ig-small-footer" src="/_resources/images/social/instagram-white.png" alt="Instagram Logo"></a></li>
+               </ul>
+            </div>
+         </div>
+         <ul class="utilities primary clearfix">
+            <li><a href="/contact/" title="Contact EMU">Contact and Location</a></li>
+            <li><a href="/apply/" title="Apply">Apply</a></li>
+            <li><a href="/jobs/" title="Jobs at EMU">Jobs at EMU</a></li>
+            <li><a href="/safety-and-security/" title="Safety and Security">Safety and Security</a></li>
+            <li><a href="/titleix/" title="People">Title IX: Sexual Misconduct</a></li>
+            <li><a href="http://my.emu.edu" title="myEMU"><span xmlns:ouc="http://omniupdate.com/XSL/Variables" style="text-transform: lowercase;">my</span>EMU</a></li>
+            <li class="last"><a href="/policies/privacy/">Privacy Policy</a></li>
+         </ul>
+      </div>
+      <div id="mainPageFooterRight" class="right">
+         <ul class="">
+            <li xmlns:ouc="http://omniupdate.com/XSL/Variables"><a title="About" href="/about/">ABOUT</a></li>
+            <li xmlns:ouc="http://omniupdate.com/XSL/Variables"><a title="Academics" href="/academics/">ACADEMICS</a></li>
+            <li xmlns:ouc="http://omniupdate.com/XSL/Variables"><a title="Admissions" href="/admissions/">ADMISSIONS</a></li>
+            <li xmlns:ouc="http://omniupdate.com/XSL/Variables"><a title="Alumni and Parents" href="/alumni-and-parents/">ALUMNI &amp; PARENTS</a></li>
+            <li xmlns:ouc="http://omniupdate.com/XSL/Variables"><a title="Student Life" href="/studentlife/">STUDENT LIFE</a></li>
+            <li xmlns:ouc="http://omniupdate.com/XSL/Variables"><a title="Athletics" href="https://www.emuroyals.com/">ATHLETICS</a></li> </ul>
+         <ul class="">
+            <li xmlns:ouc="http://omniupdate.com/XSL/Variables"><a title="Programs" href="https://my.emu.edu/ics">myEMU</a></li>
+            <li xmlns:ouc="http://omniupdate.com/XSL/Variables"><a title="CJP" href="/cjp/">CJP</a></li>
+            <li xmlns:ouc="http://omniupdate.com/XSL/Variables"><a title="Graduate" href="/graduate/">GRADUATE</a></li>
+            <li xmlns:ouc="http://omniupdate.com/XSL/Variables"><a title="Seminary" href="/seminary/">SEMINARY</a></li>
+            <li xmlns:ouc="http://omniupdate.com/XSL/Variables"><a title="Lancaster" href="/lancaster/">LANCASTER</a></li>
+            <li xmlns:ouc="http://omniupdate.com/XSL/Variables"><a title="Online" href="/online/">ONLINE</a></li> </ul>
+         <ul class="">
+            <li xmlns:ouc="http://omniupdate.com/XSL/Variables"><a title="Contact" href="/contact/">CONTACT &amp; LOCATION</a></li>
+            <li xmlns:ouc="http://omniupdate.com/XSL/Variables"><a title="Jobs" href="/jobs/">JOBS AT EMU</a></li>
+            <li xmlns:ouc="http://omniupdate.com/XSL/Variables"><a title="Safety and Security" href="/safety-and-security/">SAFETY &amp; SECURITY</a></li>
+            <li xmlns:ouc="http://omniupdate.com/XSL/Variables"><a title="Password" href="https://password.emu.edu/">EMU PASSWORD</a></li>
+            <li xmlns:ouc="http://omniupdate.com/XSL/Variables"><a title="Privacy Policy" href="/policies/privacy">PRIVACY POLICY</a></li>
+            <li xmlns:ouc="http://omniupdate.com/XSL/Variables"><a title="Title IX" href="/titleix/">TITLE IX: SEXUAL MISCONDUCT</a></li> </ul>
+      </div>
+   </div>
+</footer>
+
+<script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0022/6550.js" async="async"></script>
+
+<!-- Adroll Pixel -->
+<script type="text/javascript">adroll_adv_id = "XNX5ARL4HJB35IBFHVXFIE"; adroll_pix_id = "4LBE4EVAX5CFPCNPQZCQLB"; (function () { var _onload = function(){if (document.readyState && !/loaded|complete/.test(document.readyState)){setTimeout(_onload, 10);return}if (!window.__adroll_loaded){__adroll_loaded=true;setTimeout(_onload, 50);return}var scr = document.createElement("script");var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");scr.setAttribute('async', 'true');scr.type = "text/javascript";scr.src = host + "/j/roundtrip.js"; ((document.getElementsByTagName('head') || [null])[0] || document.getElementsByTagName('script')[0].parentNode).appendChild(scr); };if (window.addEventListener) {window.addEventListener('load', _onload, false);} else {window.attachEvent('onload', _onload)}}());</script>
+<!-- End Adroll Pixel -->
+
+<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-565TSCD');</script>
+<!-- End Google Tag Manager -->
+
+<!-- EAB -->
+<script defer src="https://adp.eab.com/js/adp.min.js"></script>
+<script>
+(function(w,d,t,u,n,a,m){w['MauticTrackingObject']=n;
+w[n]=w[n]||function(){(w[n].q=w[n].q||[]).push(arguments)},a=d.createElement(t),
+m=d.getElementsByTagName(t)[0];a.async=1;a.src=u;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://my.emu-now.org/mtc.js','mt');
+mt('send', 'pageview');
+</script>
+<!-- End EAB -->
+
+<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-565TSCD"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-2018737-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-2018737-1');
+</script>
+
+
+<script>
+	function offsetAnchor() {
+		if(location.hash.length !== 0) {
+			window.scrollTo(window.scrollX, window.scrollY - 40);
+		}
+	}
+
+	window.addEventListener("hashchange", offsetAnchor);
+	window.setTimeout(offsetAnchor, 1);
+</script>
+
+<script src="/_resources/js/master/jquery.3.3.1.min.js?v=1.1"></script>
+<script src="/_resources/js/master/jquery.flexslider-min.js"></script>
+<script src="/_resources/js/master/jquery.csv.min.js"></script>
+<!-- outcomesScript.js -->
+<script src="/_resources/js/master/outcomesScript-v1.js"></script>
+<!-- masterScript.js -->
+<script src="/_resources/js/master/masterScript-v4.js"></script>
+<!-- globalFooter.js -->
+<script src="/_resources/js/master/globalFooter-v1.js"></script>
+<!-- globalNavigation.js -->
+<script src="/_resources/js/master/globalNavigation-v20.js"></script>
+<!-- cookieScript.js -->
+<script src="/_resources/js/master/cookieScript-v1.js"></script>
+<script src="/_resources/js/master/slick.js?v=1.0"></script>
+<script src="/_resources/js/direct-edit.js"></script>
+
+
+<!-- undergradNavScript.js -->
+<script src="/_resources/js/undergrad/undergradNavScript-v2.js"></script></body>
+</html>

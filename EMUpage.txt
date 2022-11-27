@@ -1,0 +1,497 @@
+<!DOCTYPE HTML>
+<html class="no-js" lang="en">
+   <head>
+
+<meta charset="utf-8"/>11:13 AM 11/1/2020
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="google-site-verification" content="ilDsLQCJhyJXEWO8hzx1oqxItKy9CqbW_AJVtgW7pkM" />
+
+<link rel="shortcut icon" type="image/ico" href="/_resources/images/favicon.ico" />
+<link rel="apple-touch-icon" href="/_resources/images/apple-touch-icon.png"/>
+
+<link rel="stylesheet" type="text/css" href="/_resources/css/master/slick.css?v=1.0"/>
+<link rel="stylesheet" type="text/css" href="/_resources/css/master/slick-theme.css?v=1.0"/>
+<link rel="stylesheet" href="/_resources/css/oustyles.css?v=1.0" />
+<link rel="stylesheet" href="/_resources/css/master/global-navigation-2018.css?v=1.5"/>
+<link rel="stylesheet" href="/_resources/css/master/global-footer-2018.css?v=1.2"/>
+<link rel="stylesheet" href="/_resources/css/master/masterStyle2018.css?v=3.2"/>
+
+<link rel="stylesheet" href="/_resources/css/undergrad/undergradNavStyle2018.css?v=2.0"/>
+
+<!--<script src="https://api.meritpages.com/merit.js"></script>-->
+<script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0022/6550.js" async="async"></script>
+
+<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-565TSCD');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Pardot Tracking Code from Salesforce (Initiated by Phil and IS) 
+<script type="text/javascript">
+piAId = '740313';
+piCId = '5179';
+piHostname = 'pi.pardot.com';
+
+(function() {
+function async_load(){
+var s = document.createElement('script'); s.type = 'text/javascript';
+s.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn') + '.pardot.com/pd.js';
+var c = document.getElementsByTagName('script')[0]; c.parentNode.insertBefore(s, c);
+}
+if(window.attachEvent) { window.attachEvent('onload', async_load); }
+else { window.addEventListener('load', async_load, false); }
+})();
+</script>-->      <title>Contact Information</title>
+      <meta name="Description" content="Contact information for office of the university">
+      <meta name="Keywords" content="contact EMU, emu"><script type="text/javascript">
+					var page_url="https://emu.edu/contact/index.html";
+				</script></head>
+   <body><header class="clearfix">
+   <nav class="undergradNav">
+      <div id="navigationContainer"><a href="/" title="EMU in Virginia"><img alt="Header Logo" id="headerLogo" src="/_resources/images/emu-lettermark-logo-color-white.png"></a><ul id="emu-nav">
+            <li class="visuallyhidden" id="skip-link"><a href="#main" title="Skip Navigation">Skip the navigation</a></li>
+            <li id="main-menu">
+               <ul class="toggle-panel">
+                  <li onmouseover="topaboutIn()" onblur="topaboutIn()" onfocus="topaboutOut()" onmouseout="topaboutOut()" class="about"><a href="/about/index.html" id="aboutNav" onClick="_gaq.push(['_trackEvent', 'Nav Menu', 'Click', 'about']);">About</a><div style="display:none;" id="indexaboutDropdown">
+                        <div class="newNavMenuItem"><a href="/about/facts.html">Fast Facts</a></div>
+                        <div class="newNavMenuItem"><a href="/about/area/index.html">About the Area</a></div>
+                        <div class="newNavMenuItem"><a href="/president/mission.html">Mission, Vision, Values</a></div>
+                        <div class="newNavMenuItem"><a href="/about/faith-tradition.html">Faith Tradition</a></div>
+                        <div class="newNavMenuItem"><a href="/about/visit.html">Visiting Campus</a></div>
+                        <div class="newNavMenuItem"><a href="/about/university-info.html">About the University</a></div>
+                        <div class="newNavMenuItem"><a href="/president/senior-leadership.html">Senior Leadership</a></div>
+                        <div class="newNavMenuItem"><a href="/now/news/">EMU News</a></div>
+                        <div class="newNavMenuItem"><a href="/contact/index.html">Contact Us</a></div>
+                     </div>
+                  </li>
+                  <li onmouseover="topadmissionsIn()" onblur="topadmissionsIn()" onfocus="topadmissionsOut()" onmouseout="topadmissionsOut()" class="admissions"><a href="/admissions/index.html" id="admissionsNav" onClick="_gaq.push(['_trackEvent', 'Nav Menu', 'Click', 'admissions']);">Admissions</a><div style="display:none;" id="indexadmissionsDropdown">
+                        <div class="newNavMenuItem"><a href="/admissions/apply/index.html">Apply Now</a></div>
+                        <div class="newNavMenuItem"><a href="/admissions/next-steps.html">Next Steps</a></div>
+                        <div class="newNavMenuItem"><a href="/admissions/campus-visit/index.html">Visit Campus</a></div>
+                        <div class="newNavMenuItem"><a href="/financial-aid/index.html">Financial Assistance</a></div>
+                        <div class="newNavMenuItem"><a href="/admissions/info.html">Request Info</a></div>
+                        <div class="newNavMenuItem"><a href="/admissions/counselors/index.html">Meet your Counselors</a></div>
+                        <div class="newNavMenuItem"><a href="/admissions/transfer/index.html">Transfer Students</a></div>
+                        <div class="newNavMenuItem"><a href="/admissions/international-students/index.html">International Students</a></div>
+                        <div class="newNavMenuItem"><a href="/graduate/index.html">Graduate and Seminary Programs</a></div>
+                     </div>
+                  </li>
+                  <li onmouseover="topacademicsIn()" onblur="topacademicsIn()" onfocus="topacademicsOut()" onmouseout="topacademicsOut()" class="academics"><a href="/academics/index.html" id="academicsNav" onClick="_gaq.push(['_trackEvent', 'Nav Menu', 'Click', 'academics']);">Academics</a><div style="display:none;" id="indexacademicsDropdown">
+                        <div class="newNavMenuItem"><a href="/academics/degree-programs.html">Degrees and Programs</a></div>
+                        <div class="newNavMenuItem"><a href="/graduate/index.html">Graduate and Seminary Programs</a></div>
+                        <div class="newNavMenuItem"><a href="/academics/calendar.html">Academic Calendar</a></div>
+                        <div class="newNavMenuItem"><a href="/online/index.html">Online Programs and Courses</a></div>
+                        <div class="newNavMenuItem"><a href="/academics/academic-and-creative-excellence/index.html">Academic / Creative Excellence Fest</a></div>
+                        <div class="newNavMenuItem"><a href="/library/index.html">Sadie Hartzler Library</a></div>
+                        <div class="newNavMenuItem"><a href="/crosscultural/index.html">Cross-Cultural Programs</a></div>
+                     </div>
+                  </li>
+                  <li onmouseover="topalumniparentsIn()" onblur="topalumniparentsIn()" onfocus="topalumniparentsOut()" onmouseout="topalumniparentsOut()" class="alumniparents"><a href="/alumni-and-parents/index.html" id="alumniparentsNav" onClick="_gaq.push(['_trackEvent', 'Nav Menu', 'Click', 'alumniparents']);">Alumni &amp; Parents</a><div style="display:none;" id="indexalumniparentsDropdown">
+                        <div class="newNavMenuItem"><a href="/alumni/index.html">Alumni</a></div>
+                        <div class="newNavMenuItem"><a href="/parents/index.html">Parents</a></div>
+                        <div class="newNavMenuItem"><a href="/homecoming/index.html">Homecoming</a></div>
+                        <div class="newNavMenuItem"><a href="/alumni/involved/index.html">Get Involved</a></div>
+                        <div class="newNavMenuItem"><a href="https://emuroyalsgear.merchorders.com/">Get Royals Gear</a></div>
+                     </div>
+                  </li>
+                  <li onmouseover="topstudentlifeIn()" onblur="topstudentlifeIn()" onfocus="topstudentlifeOut()" onmouseout="topstudentlifeOut()" class="studentlife"><a href="/studentlife/index.html" id="studentlifeNav" onClick="_gaq.push(['_trackEvent', 'Nav Menu', 'Click', 'studentlife']);">Student Life</a><div style="display:none;" id="indexstudentlifeDropdown">
+                        <div class="newNavMenuItem"><a href="/studentlife/counseling/index.html">Counseling Services</a></div>
+                        <div class="newNavMenuItem"><a href="/studentlife/health/index.html">Health Services</a></div>
+                        <div class="newNavMenuItem"><a href="/studentlife/residence-life/index.html">Residence Life</a></div>
+                        <div class="newNavMenuItem"><a href="/studentlife/iss/index.html">International Student Services</a></div>
+                        <div class="newNavMenuItem"><a href="/studentlife/multicultural/index.html">Multicultural Student Services</a></div>
+                        <div class="newNavMenuItem"><a href="/studentlife/orientation/index.html">New Student Orientation</a></div>
+                        <div class="newNavMenuItem"><a href="/studentlife/spiritual-life.html">Spiritual Life</a></div>
+                        <div class="newNavMenuItem"><a href="/titleix/index.html">Title IX</a></div>
+                     </div>
+                  </li>
+                  <li onmouseover="topathleticsIn()" onblur="topathleticsIn()" onfocus="topathleticsOut()" onmouseout="topathleticsOut()" class="athletics"><a href="https://www.emuroyals.com/" id="athleticsNav" onClick="_gaq.push(['_trackEvent', 'Nav Menu', 'Click', 'athletics']);">Athletics</a><div style="display:none;" id="indexathleticsDropdown"></div>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </div>
+   </nav>
+   <div id="header-image" class="wrap"></div><div style="top:-155px !important;" id="topHeaderSearch">
+	<div class="wrap clearfix">
+		<form id="google-cse" action="/search/" name="google-cse"><input type="hidden" value="https://emu.edu/search/google_cse/context.xml" name="cref" aria-label="Search" /> <input type="hidden" value="FORID:11" name="cof" aria-label="Search" /> <input id="desk-search-box" class="searchbox" onblur="changeDesktopSearchToDefault();" type="search" placeholder="Search programs, people and pages..." name="q" aria-label="Search" /></form>
+	</div>
+</div>
+<div class="emergency-banner-container">
+	<div class="emergency-banner-inner">
+		<span style="font-weight:bold;">COVID-19 UPDATES:</span> <span><span><span>Last updated October 28</span></span></span> <a style="text-decoration: underline; color: #f3a71e; text-transform: uppercase; font-size: 14px; margin: 0 10px;" href="/coronavirus/">Learn More &gt;</a>
+	</div>
+</div>
+<div style="position:absolute !important;" class="section">
+	<div id="top-bar" class="wrap">
+		<ul class="primary">
+			<li class="primaryProgramLinks"><a href="/">EMU HOME</a></li>
+			<li class="primaryProgramLinks"><a href="http://my.emu.edu">ON CAMPUS</a></li>
+			<li class="primaryProgramLinks"><a title="CJP" href="/cjp/">CJP</a></li>
+			<li class="primaryProgramLinks"><a title="Grad Studies" href="/graduate/">GRADUATE</a></li>
+			<li class="primaryProgramLinks"><a title="Seminary" href="/seminary/">SEMINARY</a></li>
+			<li class="primaryProgramLinks"><a title="Lancaster" href="/lancaster/">LANCASTER, PA</a></li>
+			<li class="primaryProgramLinks"><a title="online" href="/online/">ONLINE</a></li>
+			<div id="headerCloseMenu"><a href="javascript:closeMobileMenu();"> <img id="headerCloseSymbol" src="/_resources/images/close.png" alt="" /> </a></div>
+			<div id="headerHamburgerMenu"><a href="javascript:openMobileMenu();"> <img id="headerHamburgerSymbol" src="/_resources/images/hamburger.png" alt="" /> </a></div>
+			<a href="javascript:changeDesktopSearch();"> <img id="search-symbol" src="/_resources/images/search.png" alt="Search Symbol" /> </a>
+		</ul>
+		<div class="right"><a class="btn-admissions btn-admissions-give" title="Give" href="javascript:decideURLPath('give');">Give</a> <a class="btn-admissions btn-admissions-apply" title="Apply" href="javascript:decideURLPath('apply');">Apply</a> <a class="btn-admissions btn-admissions-visit" title="Visit" href="javascript:decideURLPath('visit');">Visit</a> <a class="btn-admissions btn-admissions-info" title="Info" href="javascript:decideURLPath('info');">Info</a></div>
+	</div>
+</div>
+<div id="hiddenMobileMenu">
+	<div class="mobileDropdownContainer">
+		<ul class="mobileDropdownUl">
+			<li onclick="mobileDropAboutMenu();" class="mobileDropdownLi">
+				<span>About</span>
+				<p id="mobileDropAboutArrow">&#9660;</p>
+			</li>
+			<div id="mobileDropdownAboutHidden">
+				<ul>
+					<li><a href="/about/index.html">About Home</a></li>
+					<li><a href="/about/facts.html">Fast Facts</a></li>
+					<li><a href="/president/mission.html">Mission, Vision, Values</a></li>
+					<li><a href="/about/area/index.html">About the Area</a></li>
+					<li><a href="/about/faith-tradition.html">Faith Tradition</a></li>
+					<li><a href="/about/visit.html">Visiting Campus</a></li>
+					<li><a href="/about/university-info/">About the University</a></li>
+					<li><a href="/president/senior-leadership/">Senior Leadership</a></li>
+					<li><a href="/contact/index.html">Contact Us</a></li>
+				</ul>
+			</div>
+			<li onclick="mobileDropAdmissionsMenu();" class="mobileDropdownLi">
+				<span>Admissions</span>
+				<p id="mobileDropAdmissionsArrow">&#9660;</p>
+			</li>
+			<div id="mobileDropdownAdmissionsHidden">
+				<ul>
+					<li><a href="/admissions/index.html">Admissions Home</a></li>
+					<li><a href="/admissions/apply/index.html">Apply Now</a></li>
+					<li><a href="/admissions/next-steps.html">Next Steps</a></li>
+					<li><a href="/admissions/campus-visit/index.html">Visit Campus</a></li>
+					<li><a href="/financial-aid/index.html">Financial Assistance</a></li>
+					<li><a href="/admissions/info.html">Request Info</a></li>
+					<li><a href="/admissions/counselors/index.html">Meet your Counselors</a></li>
+					<li><a href="/admissions/transfer/index.html">Transfer Students</a></li>
+					<li><a href="/graduate/index.html">Graduate and Seminary Programs</a></li>
+				</ul>
+			</div>
+			<li onclick="mobileDropAcademicsMenu();" class="mobileDropdownLi">
+				<span>Academics</span>
+				<p id="mobileDropAcademicsArrow">&#9660;</p>
+			</li>
+			<div id="mobileDropdownAcademicsHidden">
+				<ul>
+					<li><a href="/academics/index.html">Academics Home</a></li>
+					<li><a href="/academics/degree-programs.html">Degrees and Programs</a></li>
+					<li><a href="/graduate/index.html">Graduate and Seminary Programs</a></li>
+					<li><a href="/academics/calendar.html">Academic Calendar</a></li>
+					<li><a href="/online/index.html">Online Programs and Courses</a></li>
+					<li><a href="/academics/academic-and-creative-excellence/index.html">Academic / Creative Excellence Fest</a></li>
+					<li><a href="/library/index.html">Sadie Hartzler Library</a></li>
+					<li><a href="/crosscultural/index.html">Cross-Cultural Programs</a></li>
+				</ul>
+			</div>
+			<li onclick="mobileDropAlumniparentsMenu();" class="mobileDropdownLi">
+				<span>Alumni &amp; Parents</span>
+				<p id="mobileDropAlumniparentsArrow">&#9660;</p>
+			</li>
+			<div id="mobileDropdownAlumniparentsHidden" style="display: none;">
+				<ul>
+					<li><a href="/alumni-and-parents/index.html">Alumni &amp; Parents Home</a></li>
+					<li><a href="/alumni/index.html">Alumni</a></li>
+					<li><a href="/parents/index.html">Parents</a></li>
+					<li><a href="/homecoming/index.html">Homecoming</a></li>
+					<li><a href="/alumni/involved/index.html">Get Involved</a></li>
+					<li><a href="https://emuroyalsgear.merchorders.com/">Get Royals Gear</a></li>
+				</ul>
+			</div>
+			<li onclick="mobileDropStudentlifeMenu();" class="mobileDropdownLi">
+				<span>Student Life</span>
+				<p id="mobileDropStudentlifeArrow">&#9660;</p>
+			</li>
+			<div id="mobileDropdownStudentlifeHidden">
+				<ul>
+					<li><a href="/studentlife/index.html">Student Life Home</a></li>
+					<li><a href="/studentlife/counseling/index.html">Counseling Services</a></li>
+					<li><a href="/studentlife/health/index.html">Health Services</a></li>
+					<li><a href="/studentlife/residence-life/index.html">Residence Life</a></li>
+					<li><a href="/studentlife/iss/index.html">International Student Services</a></li>
+					<li><a href="/studentlife/multicultural/index.html">Multicultural Student Services</a></li>
+					<li><a href="/studentlife/orientation/index.html">New Student Orientation</a></li>
+					<li><a href="/studentlife/spiritual-life.html">Spiritual Life</a></li>
+					<li><a href="/titleix/index.html">Title IX</a></li>
+				</ul>
+			</div>
+			<li class="mobileDropdownLi">
+				<a href="http://www.emuroyals.com/"><div>Athletics</div></a>
+			</li>
+		</ul>
+	</div>
+	<div class="mobileQuickLinksContainer">
+		<h2 class="mobileQuickLinksHeader"><em>Quick Links</em></h2>
+		<a href="/">
+			<div class="mobileQuickLinks"><em>Home</em></div>
+		</a>
+		<a href="https://my.emu.edu/">
+			<div class="mobileQuickLinks"><em>On Campus</em></div>
+		</a> 
+		<a href="/cjp/">
+			<div class="mobileQuickLinks"><em>CJP</em></div>
+		</a>
+		<a href="/graduate/">
+			<div class="mobileQuickLinks"><em>Graduate</em></div>
+		</a>
+		<a href="/seminary/">
+			<div class="mobileQuickLinks"><em>Seminary</em></div>
+		</a> 
+		<a href="/lancaster/">
+			<div class="mobileQuickLinks"><em>Lancaster, PA</em></div>
+		</a>
+		<a href="/online/">
+			<div class="mobileQuickLinks"><em>Online</em></div>
+		</a>
+	</div>
+</div></header><style></style><style>header #header-image { background:url("https://emu.edu/_headers/general-header.jpg"); } </style><div class="section-title-container">
+         <h1 class="caps">Contact</h1>
+      </div>
+      <div class="titleBar">
+         <div role="main" class="wrap clearfix">
+            <div class="breadcrumb" id="breadcrumbs"><a href="/">Home</a><span class="divider">?</span>Contact
+            </div>
+         </div>
+      </div>
+      <div role="main" class="wrap clearfix">
+         <div class="clearfix"></div>
+      </div>
+      <section class="youtube-embeded-popup">
+         <div class="youtube-section-embed-container"></div>
+      </section>
+      <section class="outer-description-overlay-popup">
+         <div class="inner-description-overlay-popup">
+            <div class="description-overlay-text-area">
+               					Text Here...
+               				
+            </div><a href="javascript:closeDescriptionOverlay();">? CLOSE</a></div>
+      </section>
+      <div role="main" class="wrap clearfix">
+         <div class="clearfix">
+            <div class="full-width-content clearfix">
+               <h1>General Contact and Location Information</h1>
+               
+               <p id="general_contact_information">Eastern Mennonite University’s main campus (<a style="font-size: 16px; font-family: SourceSansPro, Helvetica, Arial, sans-serif;" href="/map/">see map</a><span style="color: #000000; font-size: 16px; font-family: SourceSansPro, Helvetica, Arial, sans-serif;">) is located in Harrisonburg, Virginia. A satellite campus is located in Lancaster,
+                     Pennsylvania.</span></p>
+               
+               <p><a class="btn-primary" href="/about/area/directions">Get directions&nbsp;to campus</a> <a class="btn-primary" href="/map/">See the campus map</a>&nbsp;
+               </p>
+               
+               <h2>Main Campus Contact and Location</h2>
+               
+               <h3>Mailing and street address:</h3>
+               
+               <address>Eastern Mennonite University<br>1200 Park Rd<br>Harrisonburg, VA 22802-2462
+               </address>
+               
+               <p><a href="http://maps.google.com/maps?f=q&amp;hl=en&amp;geocode=&amp;time=&amp;date=&amp;ttype=&amp;q=Eastern+Mennonite+University,+1200+Park+Rd,+Harrisonburg,+VA+22802&amp;sll=38.471577,-78.878037&amp;sspn=0.010886,0.014656&amp;ie=UTF8&amp;ll=38.471566,-78.878016&amp;spn=0.010886,0.014656&amp;z=16&amp;iwloc=addr&amp;om=1">Google Maps driving directions</a></p>
+               
+               <p><strong>Telephone:</strong> 540-432-4000<br><strong>Fax:</strong> 540-432-4444<br><strong><span class="caps">TTY</span>:</strong> 540-432-4599
+               </p>
+               
+               <h2><span class="caps">EMU</span> Lancaster Contact and Location
+               </h2>
+               
+               <h3>Mailing address:</h3>
+               
+               <address>Eastern Mennonite University<br>PO Box 10936<br>Lancaster, PA 17605-0936
+               </address>
+               
+               <p><a href="http://maps.google.com/maps?q=Eastern+Mennonite+University,+Charter+Lane,+Lancaster,+PA&amp;hl=en&amp;sll=37.0625,-95.677068&amp;sspn=44.658568,59.677734&amp;vpsrc=0&amp;t=m&amp;z=14">Google Maps driving directions</a></p>
+               
+               <p><strong>Toll-free:</strong> 866-368-5262<br><strong>Local:</strong> 717-397-5190<br><strong>Fax:</strong> 717-397-5281
+               </p>
+               
+               <h2 id="undergraduate_admissions">Undergraduate Admissions Contact and Location</h2>
+               
+               <p>The admissions office is located in the Campus Center near the registrar and financial
+                  aid offices.
+               </p>
+               
+               <p><a href="/admissions/"><strong>Go to the admissions website</strong></a> <br>Admissions <a href="/admissions/counselors/">counselors</a> and <a href="/personnel/departments/show/admissions">directors and office staff</a><br><strong>Toll-free US:</strong> 800-368-2665<br><strong>Local/international:</strong> 540-432-4118<br><a href="mailto:admiss@emu.edu">admiss@emu.edu</a></p>
+               
+               <h2 id="alumni">Financial Aid Office</h2>
+               
+               <p><a href="/financial-aid/">Go to the Financial Aid website</a> <br><strong>Toll-free US:</strong> 800-330-9683<br><strong>Local/international:</strong> 540-432-4137<br><a href="mailto:finaid@emu.edu">finaid@emu.edu</a></p>
+               
+               <h2>Alumni and Parent Engagement Office</h2>
+               
+               <p><a href="/alumni/"><strong>Go to the alumni website</strong></a> <br>Alumni <a href="/personnel/departments/show/alumni">director and office staff</a><br><strong>Phone:</strong> 540-432-4206<br><a href="mailto:alumni@emu.edu">alumni@emu.edu</a></p>
+               
+               <h2 id="seminary">Seminary Contact and Location</h2>
+               
+               <p>The seminary building&nbsp;is located on Smith Avenue just above Lehman Auditorium and
+                  diagonal from the Campus Center.
+               </p>
+               
+               <p><a href="/seminary/">Web site</a><br><strong>Toll-free US:</strong> 800-710-7871<br><strong>Local/international:</strong> 540-432-4260<br><strong>Fax:</strong> 540-432-4598<br><a href="mailto:seminary@emu.edu">seminary@emu.edu</a></p>
+               
+               <p>The seminary mailing address is the same as the university address.</p>
+               
+               <h2 id="graduate_school">Graduate School Contact Info</h2>
+               
+               <p>EMU’s School of Graduate and Professional Studies is located on the southern end of
+                  campus in Heatwole House&nbsp;on Smith Avenue.
+               </p>
+               
+               <p><a href="/graduate/">Website</a><br><strong>Phone:</strong> 540-432-4026<br><a href="mailto:graduate@emu.edu">graduate@emu.edu</a></p>
+               
+               <p>The graduate school mailing address is the same as the university address.</p>
+               
+               <h2 id="emu_technology_helpdesk"><span class="caps">EMU</span> Technology Helpdesk
+               </h2>
+               
+               <p>The campus helpdesk and user services department is located on the lower level of
+                  Sadie Hartzler Library.
+               </p>
+               
+               <p><a href="/is/">Web site</a> <br>540-432-<span class="caps">HELP</span> (4357)<br><a href="mailto:helpdesk@emu.edu">helpdesk@emu.edu</a></p>
+               
+               <h2 id="web_site_contact">Website Contacts</h2>
+               
+               <ul>
+                  
+                  <li><a href="/faculty-staff/?show=lbl346">Laura Lehman</a>, Web Project Manager and Strategist
+                  </li>
+                  
+               </ul>
+               
+               <p>General questions and concerns: <a href="mailto:webmaster@emu.edu">webmaster@emu.edu</a></p>
+               
+               <h2 id="media_contacts">Media Contacts</h2>
+               
+               <p><a href="/marketing/media/">Press kit and media inquiries</a> <br><span class="caps">EMU</span> Media Relations&nbsp;<br>540-432-<span>4234</span>,&nbsp;<a href="mailto:marketing@emu.edu?subject=">marketing@emu.edu</a></p>
+               
+               <h2 id="emergency_contacts">Emergency Contacts</h2>
+               
+               <p><strong>Call 911</strong> for any situation that requires <strong><span class="caps">IMMEDIATE</span> police, fire, or medical response</strong> to preserve life or property.
+               </p>
+               
+               <p>Witnesses and victims of a campus crime or emergency, as well as anyone who is suspicious
+                  of people or situations on campus, are urged to contact:
+               </p>
+               
+               <ul>
+                  
+                  <li>Campus security can be reached at <strong>4911</strong> from a campus phone or 540-432-4911 from an off-campus phone.
+                  </li>
+                  
+                  <li>In the residence halls, one of the residence directors will be on call 24 hours a
+                     day to respond to emergencies or incidents which occur on campus. The staff member
+                     can be reached by calling 540-476-4578.
+                  </li>
+                  
+               </ul>
+               
+               <p>Each residence hall room is equipped with a campus telephone line (residents provide
+                  their own telephones), and a phone is also located at the main entrance of each residence
+                  hall. Incidents can also be reported in person at the Physical Plant Office, or at
+                  the Student Life Office in the University Commons building.
+               </p>
+               
+               <p>See also: <a href="/safety-and-security/">Campus Safety and Security</a></p>
+            </div>
+         </div>
+      </div>
+      <div id="hidden" style="display:none;">
+         <a id="de" rel="nofollow" href="https://a.cms.omniupdate.com/11/?skin=oucampus&amp;account=emu&amp;site=www&amp;action=de&amp;path=/contact/index.pcf">©</a>
+      </div><div class="undergrad-mobile-bottom-buttons">
+   <div class="mobile-bottom-buttons-surround"><a href="javascript:decideURLPath('visit');">
+         <div class="mobile-bottom-button mobile-bottom-button-visit"><img src="/_resources/images/mobile-icons/mobile-bottom-visit-now.png" alt="visit graphic"><span class="mobile-bottom-title">Visit</span></div></a><a href="javascript:decideURLPath('apply');">
+         <div class="mobile-bottom-button"><img src="/_resources/images/mobile-icons/mobile-bottom-apply-now.png" alt="apply graphic"><span class="mobile-bottom-title">Apply</span></div></a></div>
+</div>
+<footer id="footer" class="footer-with-mountains">
+   <div class="mountain-footer"></div>
+   <div id="ybDiv" class="wrap clearfix">
+      <div id="mainPageFooterLeft" class="left"><a href="/"><img alt="EMU Logo" src="/_resources/images/emu-lettermark-logo-color-white.png" id="logo" class="png_bg"></a><address class="vcard"><span id="directedit">©</span> 2006 - 2020<span class="fn org"> Eastern Mennonite University</span><br><span class="adr"><span class="street-address">1200 Park Road</span>, <span class="locality">Harrisonburg</span>, <span class="region">Virginia</span> <span class="postal-code">22802</span> </span><br>
+            			Phone: <span class="tel">540-432-4000</span></address>
+         <div class="footer-social-icon-container">
+            <div class="footer-social-icon-container-inner">
+               <ul class="footer-social-icon-ul">
+                  <li><a onfocus="undergradFacebookIconHover();" onmouseover="undergradFacebookIconHover();" onblur="undergradFacebookIconOut();" onmouseout="undergradFacebookIconOut();" href="https://www.facebook.com/EasternMennonite"><img id="fb-small-footer" src="/_resources/images/social/facebook-white.png" alt="Facebook Logo"></a></li>
+                  <li><a onfocus="undergradTwitterIconHover();" onmouseover="undergradTwitterIconHover();" onblur="undergradTwitterIconOut();" onmouseout="undergradTwitterIconOut();" href="https://www.twitter.com/emu_news"><img id="tw-small-footer" src="/_resources/images/social/twitter-white.png" alt="Twitter Logo"></a></li>
+                  <li><a onfocus="undergradYoutubeIconHover();" onmouseover="undergradYoutubeIconHover();" onblur="undergradYoutubeIconOut();" onmouseout="undergradYoutubeIconOut();" href="https://www.youtube.com/user/easternmennoniteuniv"><img id="yt-small-footer" src="/_resources/images/social/youtube-white.png" alt="YouTube Logo"></a></li>
+                  <li><a onfocus="undergradInstagramIconHover();" onmouseover="undergradInstagramIconHover();" onblur="undergradInstagramIconOut();" onmouseout="undergradInstagramIconOut();" href="https://www.instagram.com/easternmennoniteu/"><img id="ig-small-footer" src="/_resources/images/social/instagram-white.png" alt="Instagram Logo"></a></li>
+               </ul>
+            </div>
+         </div>
+         <ul class="utilities primary clearfix">
+            <li><a href="/contact/" title="Contact EMU">Contact and Location</a></li>
+            <li><a href="/apply/" title="Apply">Apply</a></li>
+            <li><a href="/jobs/" title="Jobs at EMU">Jobs at EMU</a></li>
+            <li><a href="/safety-and-security/" title="Safety and Security">Safety and Security</a></li>
+            <li><a href="/titleix/" title="People">Title IX: Sexual Misconduct</a></li>
+            <li><a href="http://my.emu.edu" title="myEMU"><span style="text-transform: lowercase;">my</span>EMU</a></li>
+            <li class="last"><a href="/policies/privacy/">Privacy Policy</a></li>
+         </ul>
+      </div>
+      <div id="mainPageFooterRight" class="right">
+         <ul class="">
+            <li><a title="About" href="/about/">ABOUT</a></li>
+            <li><a title="Academics" href="/academics/">ACADEMICS</a></li>
+            <li><a title="Admissions" href="/admissions/">ADMISSIONS</a></li>
+            <li><a title="Alumni and Parents" href="/alumni-and-parents/">ALUMNI &amp; PARENTS</a></li>
+            <li><a title="Student Life" href="/studentlife/">STUDENT LIFE</a></li>
+            <li><a title="Athletics" href="https://www.emuroyals.com/">ATHLETICS</a></li> 
+         </ul>
+         <ul class="">
+            <li><a title="Programs" href="https://my.emu.edu/ics">myEMU</a></li>
+            <li><a title="CJP" href="/cjp/">CJP</a></li>
+            <li><a title="Graduate" href="/graduate/">GRADUATE</a></li>
+            <li><a title="Seminary" href="/seminary/">SEMINARY</a></li>
+            <li><a title="Lancaster" href="/lancaster/">LANCASTER</a></li>
+            <li><a title="Online" href="/online/">ONLINE</a></li> 
+         </ul>
+         <ul class="">
+            <li><a title="Contact" href="/contact/">CONTACT &amp; LOCATION</a></li>
+            <li><a title="Jobs" href="/jobs/">JOBS AT EMU</a></li>
+            <li><a title="Safety and Security" href="/safety-and-security/">SAFETY &amp; SECURITY</a></li>
+            <li><a title="Password" href="https://password.emu.edu/">EMU PASSWORD</a></li>
+            <li><a title="Privacy Policy" href="/policies/privacy">PRIVACY POLICY</a></li>
+            <li><a title="Title IX" href="/titleix/">TITLE IX: SEXUAL MISCONDUCT</a></li> 
+         </ul>
+      </div>
+   </div>
+</footer>
+
+<!-- Adroll Pixel -->
+<script type="text/javascript">adroll_adv_id = "XNX5ARL4HJB35IBFHVXFIE"; adroll_pix_id = "4LBE4EVAX5CFPCNPQZCQLB"; (function () { var _onload = function(){if (document.readyState && !/loaded|complete/.test(document.readyState)){setTimeout(_onload, 10);return}if (!window.__adroll_loaded){__adroll_loaded=true;setTimeout(_onload, 50);return}var scr = document.createElement("script");var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");scr.setAttribute('async', 'true');scr.type = "text/javascript";scr.src = host + "/j/roundtrip.js"; ((document.getElementsByTagName('head') || [null])[0] || document.getElementsByTagName('script')[0].parentNode).appendChild(scr); };if (window.addEventListener) {window.addEventListener('load', _onload, false);} else {window.attachEvent('onload', _onload)}}());</script>
+<!-- End Adroll Pixel -->
+
+<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-565TSCD"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<script>
+	function offsetAnchor() {
+		if(location.hash.length !== 0) {
+			window.scrollTo(window.scrollX, window.scrollY - 40);
+		}
+	}
+
+	window.addEventListener("hashchange", offsetAnchor);
+	window.setTimeout(offsetAnchor, 1);
+</script>
+
+<script src="/_resources/js/master/jquery.3.3.1.min.js?v=1.1"></script>
+<script src="/_resources/js/master/masterScript2018.js?v=2.9"></script>
+<script src="/_resources/js/master/global-footer-2018.js?v=1.2"></script>
+<script src="/_resources/js/master/global-navigation-2018.js?v=2.7"></script>
+<script src="/_resources/js/master/slick.js?v=1.0"></script>
+<script src="/_resources/js/direct-edit.js"></script>
+
+<script src="/_resources/js/undergrad/undergradNavScript2018.js?v=1.2"></script><script src="/_resources/js/ou.js"></script></body>
